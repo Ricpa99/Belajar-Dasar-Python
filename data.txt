@@ -1,0 +1,4 @@
+NXZIZ,2022-11-29/10:13:10 AM +0700,01              ,ika             ,ti              ,medan           ,20
+INLOEZD,2022-11-29/10:27:21 AM +0700,10              ,nisa            ,ti              ,pakam           ,202020
+LOEZD,2022-11-29/10:27:21 AM +0700,10              ,nisa            ,ti              ,medan           ,2020
+XJHAB,2022-11-29/10:27:40 AM +0700,03              ,nadia           ,ti              ,medan           ,2020
